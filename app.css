@@ -1,0 +1,21 @@
+body{
+    background-image: url('./hinh\ nen\ web.jpg');
+    background-repeat: no-repeat;
+    background-size: cover  ;
+}
+
+h1{
+    text-align: center;
+    font-family: 'Crimson Text', serif;
+    font-style: italic ;
+    color: skyblue;
+}
+
+ol{
+    text-align: center;
+    font-family: 'Crimson Text', serif;
+    color: skyblue;
+    font-size: 27px;
+}
+
+
