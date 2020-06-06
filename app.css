@@ -13,10 +13,17 @@ h1{
 }
 /*bla*/
 /*bla*/
-ol{
+dl{
     text-align: center;
     font-family: 'Crimson Text', serif;
-    color: blue;
+    color: deepskyblue;
+    font-size: 27px;
+}
+
+dt{
+    text-align: center;
+    font-family: 'Crimson Text', serif;
+    color: midnightblue;
     font-size: 27px;
 }
 
