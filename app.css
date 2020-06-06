@@ -1,5 +1,5 @@
 body{
-    background-image: url('./hinh\ nen\ web.jpg');
+    background-image: url('./hinh nen web.jpg');
     background-repeat: no-repeat;
     background-size: cover  ;
 }
@@ -10,7 +10,7 @@ h1{
     font-style: italic ;
     color: skyblue;
 }
-
+/*bla*/
 ol{
     text-align: center;
     font-family: 'Crimson Text', serif;
